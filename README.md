@@ -43,7 +43,7 @@ Bem-vindo(a) ao meu GitHub! Aqui compartilho minha jornada como estudante de An�
 
 ---
 
-![coding-gif]([https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif](https://giphy.com/gifs/naruto-chibi-ohT97gdpR40vK))
+![banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTk5ZXN3amYycjhxcTlpaDRmdmxqMGp5anh1ajQ0b2g5Ym9lcHQwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif)
 
 <sub>“Em constante aprendizado e aberta a novos desafios!”</sub>
 
